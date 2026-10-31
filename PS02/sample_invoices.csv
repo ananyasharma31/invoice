@@ -1,0 +1,16 @@
+invoice_id,customer_name,amount,transaction_date,description
+INV-101,Acme Corp,5000.00,2024-01-10,Enterprise Consulting Package
+INV-102,Global Logistics LLC,3000.00,2024-01-12,Air Freight Handling
+INV-103,Apex Innovations Inc.,7000.00,2024-01-15,Cloud Infrastructure Build
+INV-2024-001,  acme corporations  , $1500.50 ,2024-01-15,Consulting Services & Setup
+INV-2024-002,Global Logistics LLC,4200.00,18/01/2024,Freight and Cargo Handling
+INV-2024-003,Apex Innovations Inc.,750.25,2024/02/01,Cloud Software Subscription
+INV-2024-004,john doe & sons,12500.00,05-Feb-2024,Enterprise Annual License
+INV-2024-005,Starlight Media,950.00,2024-02-12,Video Production Retainer
+INV-2024-006,,1200.00,2024-02-15,Web Development (Missing Customer Name)
+INV-2024-007,Pinnacle Systems,-350.00,2024-02-18,Negative Amount Error
+INV-2024-008,Nexus Dynamics,ZERO,2024-02-20,Non-Numeric Amount Error
+,Quantum Solutions,2500.00,2024-02-22,Missing Invoice ID Error
+INV-2024-009,Beacon Retail,1800.00,invalid-date-31,Unparseable Date Error
+INV-2024-001,  ACME CORPORATIONS  ,1500.50,2024-01-15,Duplicate of INV-001 in file
+INV-2024-010,Vortex Ventures,3100.75,2024-03-01,Marketing Strategy
